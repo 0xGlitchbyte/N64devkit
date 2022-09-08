@@ -1,8 +1,8 @@
-# C++
+# N64 Development Kit
 
 ## Summary
 
-*Develop C games for the Nintend64. Includes Debian C/C++ build tools as well as the N64 modern-sdk toolchain by CrashOveride.*
+*Develop C games for the Nintendo 64. Includes Debian C/C++ build tools as well as the N64 modern-sdk toolchain by CrashOveride.*
 
 | Metadata | Value |  
 |----------|-------|
